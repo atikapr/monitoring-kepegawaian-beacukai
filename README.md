@@ -1,4 +1,4 @@
-# 🏛️ Sistem Informasi Monitoring Data Kepegawaian (SIMOKAP) - KPPBC TMP C Lhokseumawe
+# 🏛️ Sistem Informasi Monitoring Data Kepegawaian (SIMPEG) - KPPBC TMP C Lhokseumawe
 
 Sistem Informasi berbasis website yang dirancang untuk mengotomatisasi pemantauan hak-hak pegawai secara *real-time* di lingkungan KPPBC TMP C Lhokseumawe, menggantikan sistem manual berbasis *spreadsheet* sebelumnya.
 
